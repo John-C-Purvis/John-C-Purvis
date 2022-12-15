@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @John-C-Purvis
+- 👀 I’m interested in developing my talents in Java, JavaScript, React, Spring, HTML, CSS and more!
+- 🌱 I’m currently learning advanced concepts and techniques in the above languages.
+- 💞️ I’m looking for work that benefits from the coding skills I have and continues to drive me forward to learn more.
+- 📫 How to reach me: johncpurvis@comcast.net
